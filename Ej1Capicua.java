@@ -50,4 +50,5 @@ public class Ej1Capicua { // La clase siempre tiene que llamarse como el archivo
 			System.out.println("No es capicua");
 		}
 	}
+	//PruebaGit
 }
