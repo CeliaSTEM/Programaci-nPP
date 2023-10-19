@@ -4,7 +4,7 @@ public class Plantilla{
         Scanner sc = new Scanner(System.in);
         int num;
 
-        System.out.print("");
+        System.out.println("");
         num = sc.nextInt();
     }
 }
